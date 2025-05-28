@@ -31,6 +31,11 @@ I’m a lover of the intersection between technology & design and use creativity
 * Gained software development expertise by working in SCRUM-like teams to design, test, and implement backend applications using Python (Flask) and MySQL and frontend interfaces using HTML, JavaScript, and CSS
 * Participated in long-term professional development and mentorship program to develop technical and career skills
 
+### Computer Science Summer Institute Particpant • *Google • (July 2022-Aug 2022)*
+* Completed a 4-week intensive computer science training program with a project-based HTML/CSS and JavaScript curriculum taught by Google engineers
+* Collaborated with a team to build a project in HTML, CSS, and JavaScript and presented a live demonstration to Google employees and community leaders
+* Attended product design, resume development, and software engineering interview workshops to build technical and professional skills
+
 ## 📊 Skills
 **Programming**
 * **Languages & Frameworks:** Python, Java, HTML, CSS, Javascript, React
@@ -42,7 +47,15 @@ I’m a lover of the intersection between technology & design and use creativity
 * **Experience:** Branding/Visual Identity, Packaging Design, Website Design, Typography
 
 ## 🗂️ Projects
-*
+### Community Connect
+* Created an Android App that allows users to find volunteering opportunities in their area based on their interests
+* Integrated organization dashboard that permits organizations to add events for volunteers to view on separate dashboard
+* Utilized Java, Firebase, Android Studio
+
+### Eco-Planner
+*  Designed and developed an eco-conscious travel planning site that lets users calculate their carbon footprint of flights/vehicles
+*  Developed using HTML, CSS, JavaScript, Flask, Python, and the Carbon Interface API
+
 
 ## 📩 Let's Connect!
 * **Linkedin**: http://linkedin.com/in/elisabeth-hassan
