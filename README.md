@@ -46,7 +46,7 @@ I’m a lover of the intersection between technology & design and use creativity
 * **Tools:** Adobe Illustrator, Photoshop, Indesign, Figma
 * **Experience:** Branding/Visual Identity, Packaging Design, Website Design, Typography
 
-## 🗂️ Projects
+## 🗂️ Project Highlight
 ### Community Connect
 * Created an Android App that allows users to find volunteering opportunities in their area based on their interests
 * Integrated organization dashboard that permits organizations to add events for volunteers to view on separate dashboard
