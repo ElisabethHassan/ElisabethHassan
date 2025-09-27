@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Elisabeth 👋
+You've found my technical portfolio! Learn more about me and my technical experience below.
+
 
 ## About Me 👩🏽‍💼
 
 I’m a lover of the intersection between technology & design and use creativity to create impactful digital solutions. Below you'll find some of my projects, skills, and learn more about me.
 
 ## 👩‍💻 Work Experience
+### Cloud Engineer • *Oracle • (July 2025-Present)* 
+* Assisted in planning and delivering customer workshops to demonstrate Oracle Cloud Infrastructure (OCI) capabilities and align solutions to business needs.
+* Supported the development of technical presentations and proof-of-concept sessions to showcase OCI’s value for enterprise workloads.
+
+
 ### Software Engineer Intern • *JP Morgan Chase • (May 2024-Aug 2024)* 
 * Integrated call summarization and categorization features into a user interface, enabling efficient analysis of customer-agent interactions
 * Refactored existing codebase from Node.js to Python and created unit tests to align with the team's preferred programming language, improving code maintainability, collaboration efficiency, and code reliability
@@ -39,7 +46,8 @@ I’m a lover of the intersection between technology & design and use creativity
 ## 📊 Skills
 **Programming**
 * **Languages & Frameworks:** Python, Java, HTML, CSS, Javascript, React
-* **Tools:** AWS (Cloud Practitioner Certificatied), Terraform, Jules, Android Studio, Flask, Git/Bash
+* **Tools:** Oracle Terraform, Jules, Android Studio, Flask, Git/Bash
+* **Certifications:** AWS (Cloud Practitioner Certificatied), Oracle (OCI Foundations Associate, Architect Professional, Data Platform Associate, AI Associate)
 * **Other:** GitHub, Google Suite, Microsoft Office
 
 **Design**
