@@ -47,15 +47,23 @@ I’m a lover of the intersection between technology & design and use creativity
 **Programming**
 * **Languages & Frameworks:** Python, Java, HTML, CSS, Javascript, React
 * **Tools:** Oracle Terraform, Jules, Android Studio, Flask, Git/Bash
-* **Certifications:** AWS (Cloud Practitioner Certificatied), Oracle (OCI Foundations Associate, Architect Professional, Data Platform Associate, AI Associate)
+* **Certifications:** AWS (Cloud Practitioner Certificatied), Oracle (OCI Foundations Associate, Architect Associate & Professional, Data Platform Associate, AI Associate)
 * **Other:** GitHub, Google Suite, Microsoft Office
 
 **Design**
 * **Tools:** Adobe Illustrator, Photoshop, Indesign, Figma
 * **Experience:** Branding/Visual Identity, Packaging Design, Website Design, Typography
 
-## 🗂️ Project Highlight
+## 🗂️ Project Highlights
+### MoneyWise
+* Created a responsive web application that informs users on how to monetize their skills
+* Conducted research on similar websites and developed a new user-interface for site 
+* Developed site using HTML, CSS, and Javascript
+
+#### Link to Live Site [https://moneywise-jet.vercel.app/index.html  ](url)
+
 ### Community Connect
+##### Link to Demo
 * Created an Android App that allows users to find volunteering opportunities in their area based on their interests
 * Integrated organization dashboard that permits organizations to add events for volunteers to view on separate dashboard
 * Utilized Java, Firebase, Android Studio
